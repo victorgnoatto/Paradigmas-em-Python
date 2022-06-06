@@ -1,4 +1,4 @@
-<h2>Profª Jackanderson Charles</h2>
+<h2>Prof Jackanderson Charles</h2>
 
 <p>Trabalho da cadeira de Linguagens de Programação em Python.</p>
 
