@@ -1,5 +1,5 @@
-Profª Jackanderson Charles
+<h2>Profª Jackanderson Charles</h2>
 
-Trabalho da cadeira de Linguagens de Programação em Python
+<p>Trabalho da cadeira de Linguagens de Programação em Python.</p>
 
-03/06/2022
+<p>03/06/2022</p>
